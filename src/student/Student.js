@@ -53,7 +53,6 @@ class Student extends Component {
   validateForm() {
     const form = this.form.current;
     form.reportValidity();
-    form.checkValidity();
     if (form.checkValidity()) {
       this.saveStudent();
     }
