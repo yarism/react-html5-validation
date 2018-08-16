@@ -1,0 +1,64 @@
+[
+  {
+    "id": "b7346629-46eb-4d79-b8e3-75841d4e8cea",
+    "firstName": "Jim",
+    "lastName": "Raynor",
+    "email": "jimraynor@gravatar123.com",
+    "dateOfBirth": "1991-06-08T03:38:16.000Z",
+    "enrollmentDate": "2017-03-10T09:19:37.000Z",
+    "postalCode": "V5A8BB",
+    "bannerUrl": "https://user-images.githubusercontent.com/25766/41337200-6ad8339c-6ea3-11e8-8125-d89f46490615.jpg",
+    "photoUrl": "https://user-images.githubusercontent.com/25766/41336950-9c93161e-6ea2-11e8-9d22-8ba7fbf17401.jpg",
+    "telephone": "(778) 9418640",
+    "outcomes": [
+      {
+        "id": "62588821-1407-4754-927d-fa5073656d22",
+        "jobTitle": "Software Engineer",
+        "jobLocation": "Vancouver",
+        "employerName": "Tarsonis Technologies Incorporated",
+        "startDate": "2017-06-14T02:30:21.000Z"
+      },
+      {
+        "id": "e7545fa4-ee33-482d-99ec-a5ea9aa24022",
+        "jobTitle": "Software Developer",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "country": "Canada",
+        "employerName": "Mar Sara Software Corp",
+        "startDate": "2018-06-16T20:28:56.000Z"
+      }
+    ]
+  },
+  {
+    "id": "3c4527c8-f9e6-44b1-98d8-eb015f3f3b5d",
+    "firstName": "Nova",
+    "lastName": "Terra",
+    "email": "novaterra@hao123.com",
+    "dateOfBirth": "1989-03-10T09:19:37.000Z",
+    "enrollmentDate": "2017-03-10T09:19:37.000Z",
+    "postalCode": "452960",
+    "bannerUrl": "https://user-images.githubusercontent.com/25766/41337199-6abdbb34-6ea3-11e8-828d-0a1df9064c42.jpg",
+    "photoUrl": "https://user-images.githubusercontent.com/25766/41336951-9cb8e380-6ea2-11e8-8bf5-c1f414cbeee3.jpg",
+    "telephone": "(604) 2121137",
+    "outcomes": [
+      {
+        "id": "b30b8d6a-9637-42c4-b08e-f6627fb7050e",
+        "jobTitle": "Junior Programmer",
+        "city": "Langley",
+        "province": "British Columbia",
+        "country": "Canada",
+        "employerName": "Shakurus Supercomputers",
+        "startDate": "2017-06-15T01:03:47.000Z"
+      },
+      {
+        "id": "e10a0054-66fc-4f05-9157-aa58ff12d5d9",
+        "jobTitle": "Machine Learning Engineer",
+        "city": "Burnaby",
+        "province": "British Columbia",
+        "country": "Canada",
+        "employerName": "Aiur AI",
+        "startDate": "2018-06-23T20:55:21.000Z"
+      }
+    ]
+  }
+]

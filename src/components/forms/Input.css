@@ -1,0 +1,20 @@
+input:invalid {
+  border-color: red
+}
+
+input {
+  background: none;
+  border: none;
+  color: white;
+  border-bottom: 1px solid white;
+  font-size: 18px;
+  display: block;
+  width: 100%;
+}
+
+label {
+  display: inline-block;
+  margin-right: 20px;
+  font-weight: bold;
+  color: rgb(219, 174, 229);
+}

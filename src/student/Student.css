@@ -1,0 +1,30 @@
+.banner {
+  border-radius: 3px;
+  height: 200px;
+  margin-bottom: 20px;
+  position: relative;
+  background-position: top center;
+}
+
+.banner__headline {
+  position: absolute;
+  bottom: 0;
+  background: #009bffb8;
+  border-radius: 0 5px 0 0;
+  margin: 0;
+  padding: 20px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+@media(max-width: 960px) {
+  .banner {
+    height: 160px;
+  }
+  .banner__headline {
+    font-size: 16px;
+    padding: 10px;
+  }
+  
+}
